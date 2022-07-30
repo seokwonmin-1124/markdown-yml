@@ -1,4 +1,4 @@
-# setting.py 사용방법
+# 사용방법
 ```md
 <!-- ./test/test.md -->
 {
